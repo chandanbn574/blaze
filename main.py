@@ -13,5 +13,5 @@ elif c=="2":
 elif c=="3":
     delete_task()
 elif c=="4":
-    brea
+    break
     
